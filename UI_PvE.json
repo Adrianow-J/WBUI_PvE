@@ -1,16 +1,16 @@
 {
     "WBUI2": {
         "settings": {
-            "OpenButton": 0,
+            "OpenButton": 3,
             "HideIcon": false,
             "HideIconAfter": 60,
             "IconURL": "https://cdn.discordapp.com/attachments/1173470511448215602/1204071377477566524/Default_DoDo_Chaos_logo_1_86258f53-b3cb-4986-af82-86cff9f4f9a8_0.png?ex=65d365da&is=65c0f0da&hm=81be945c14ba83be9727031e1112686d6e43c29e7acd4922c81a3b8bf657e9e1&",
             "DisableIconText": false,
-            "IconPosition": 0,
+            "IconPosition": 2,
             "IconTextColor": 0,
             "OpenOnStart": true,
             "OpenOnStartOnlyNewPlayers": true,
-            "UpdateInterval": 12
+            "UpdateInterval": 6
         },
         "tabs": [
             {
