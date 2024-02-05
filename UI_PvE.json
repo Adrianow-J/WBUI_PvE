@@ -1,0 +1,65 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 60,
+            "IconURL": "https://cdn.discordapp.com/attachments/1173470511448215602/1204071377477566524/Default_DoDo_Chaos_logo_1_86258f53-b3cb-4986-af82-86cff9f4f9a8_0.png?ex=65d365da&is=65c0f0da&hm=81be945c14ba83be9727031e1112686d6e43c29e7acd4922c81a3b8bf657e9e1&",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome</>",
+                    "title1": "Welcome to DoDo Chaos Ascended",
+                    "text1": "Welcome too the DoDo Chaos Ascended 100X PvE Server\n\nWe hope you enjoy your stay!\n\nFor complaints or reporting an issue please make a ticket in the discord or report an issue ingame...\n\n- F1 too report an issue\n\n- F2 for leaving a review of the server\n\n- F3 for voting on our server this will be much appreciated\n\n- F4 for getting back in this menu.\n\n\nOur server works with discord and a community webpage with a integrated shop\nToo join Discord click on the Discord button below\nToo join the community website click on the website button below\n\nWanna stay updated about the server join our discord or community webpage so you don't get left out\nInteract with other player enter Give-Aways and stay updated about upcoming Events\n\nWe hope too see you there\n\nHave fun! ",
+                    "imageurl": "https://cdn.discordapp.com/attachments/1173470511448215602/1204087993267392532/DoDoChaos50.png?ex=65d37554&is=65c10054&hm=37cf94dcec56c432ec871920825c8d59b0d9a7ffba9d68e75adf76f131fd73b3&"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 2,
+                    "buttontext": "Rules",
+                    "title1": "Overal Rules",
+                    "title2": "PvE Rules",
+                    "text1": "1: No Racism Policy.\n\n2: Stay polite.\n\n3: Don't Mesh\n\n4: No Mesh Bases\n\n5: Don't ask for freebies\n\n6: Don't harass admins",
+                    "text2": "1: No Spamming structures in the map.\n\n2: Making a dino trap no problem after taming please demolish it!\n\n3: Don't Spam or leave your dino's in somebody else his base\n\n4: No MASS breeding this will kill the server\n\n5: If not online please cryo as much of your dinos as you can\n\n6: Admins are not responable if you lose anything\n\n7: Structures and Dino's have a decay timer on them\n\n8: No insiding allowed\n\n9: Keep it fair and lovely people!",
+                    "imageurl": "https://cdn.discordapp.com/attachments/1173470511448215602/1204087993267392532/DoDoChaos50.png?ex=65d37554&is=65c10054&hm=37cf94dcec56c432ec871920825c8d59b0d9a7ffba9d68e75adf76f131fd73b3&"
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 3,
+                    "buttontext": "Server Info",
+                    "title1": "Rates",
+                    "title2": "Mods",
+                    "title3": "Admins",
+                    "text1": "Max player level: 119\n\nMax dino level: 300\n\nTribemembers: 6\n\nHarvesting rates: 100X\n\ntaming rates: 100X\n\nMating Interval Multiplier: 0.00006X\n\nEgg Hatch Speed Multiplier: 50X\n\nBaby Mature Speed Multiplier: 50X\n\nFood and water drainage: 0X\n\nCrop Growth Speed Multiplier: 50X",
+                    "text2": "- Primal Chaos\n\n- Dinosaur Discorvery+\n\n- Pull It!\n\n- TG Stacking Mod 1000-50\n\n- Pelayori's Cryo Storage\n\n- Awesome Spyglass\n\n- Custom Dino levels\n\n- Dino+ (Nanny, Hatchery)\n\n- Ultimate Tranqz\n\n- Imbue & Upgrade Station\n\n- Klinger Additional Structures\n\n- Arkomatic\n\n- Automated Ark\n\n- Der Dino Finder\n\n- TeleportersASA\n\n- Utilities Plus\n\n- Alpha Oceanic Platforms\n\n- Shoko's Deco\n\n- Moros Indomitable Duo\n\n- ASA-Bot Companion\n\n- Gameserverapp (no shop) Integration\n\n- Admin Panel\n\n- WBUI2",
+                    "text3": "- DoDo Chaos\n\n- Devilman\n\n- ElderKnights\n\n- Christopher William Chamberlin\n\n- Haz\n\n- o Jamxi\n\n- Luke",
+                    "imageurl": "https://cdn.discordapp.com/attachments/1173470511448215602/1204087993267392532/DoDoChaos50.png?ex=65d37554&is=65c10054&hm=37cf94dcec56c432ec871920825c8d59b0d9a7ffba9d68e75adf76f131fd73b3&"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Link to Discord",
+                    "url": "https://discord.gg/MQ8Jw3V3g7"
+                }
+            },
+            {
+                "link2": {
+                    "text": "Link to Website",
+                    "url": "https://dodochaos.premiumark.net/"
+                }
+            }
+        ]
+    }
+}
